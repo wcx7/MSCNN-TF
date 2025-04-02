@@ -1,4 +1,4 @@
-# SEEGformer
+# MSCNN-TF
 Code of paper: "A deep learning model for CVA diagnosis based on wrist pulse signal"
 
 ## Overview
@@ -9,6 +9,3 @@ python = 3.10.12
 
 torch = 2.0.1 
 
-
-## dataset
-The SWEC-ETHZ Short-Term dataset is available for download at: http://ieeg-swez.ethz.ch
