@@ -1,5 +1,5 @@
 # MSCNN-TF
-Code of paper: "A deep learning model for CVA diagnosis based on wrist pulse signal"
+Code of paper: "A Hybrid Soft-Hardware System for Early Warning of Cerebrovascular Accidents: Integrating Pulse Signal Acquisition with Virtual TCM Diagnostic AI"
 
 ## Overview
 Content includes source code for the implementation of MSCNN-TF.
